@@ -1,0 +1,3 @@
+/home/roman/Рабочий стол/4 курс/ТЯПиМТ/1 лабораторная/Приложение/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/home/roman/Рабочий стол/4 курс/ТЯПиМТ/1 лабораторная/Приложение/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/roman/Рабочий стол/4 курс/ТЯПиМТ/1 лабораторная/Приложение/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

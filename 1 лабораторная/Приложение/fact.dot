@@ -1,0 +1,6 @@
+digraph A{
+_Z9factoriali -> _Z9factoriali;
+main -> _Z9factoriali;
+main -> __isoc99_scanf;
+main -> printf;
+}
